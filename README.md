@@ -1,7 +1,7 @@
 # Project: frequentlyUsedWords
 
-Taking the book, Arsène Lupin by Maurice Leblanc, and extracting the top 10 most used words. 
+For this project, we will take the book, Arsène Lupin by Maurice Leblanc, and extract the top 10 most used words. 
 
-This project makes use of stop words (words that aren't very interesting, such as: 'and', 'the', 'I', 'a',...), and doesn't include them in our final count.
+We will makes use of stop words (words that aren't very interesting, such as: 'and', 'the', 'I', 'a',...), and won't include them in our final output.
 
 The book used can be found at: https://www.gutenberg.org/files/6133/6133-0.txt
