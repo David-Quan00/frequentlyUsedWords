@@ -1,6 +1,6 @@
 # Project: frequentlyUsedWords
 
-For this project, we will take the book, Arsène Lupin by Maurice Leblanc, and extract the top 10 most used words. 
+For this project, we will take the book, Arsène Lupin by Maurice Leblanc, and extract the most frequently used words. 
 
 The book used can be found at: https://www.gutenberg.org/files/6133/6133-0.txt
 
